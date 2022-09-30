@@ -1,0 +1,44 @@
+#EXTM3U
+#EXTINF:-1,TR: TRT 1
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TR: KANAL D
+https://kanalddvr.blutv.com/blutv_kanald_dvr2/live.m3u8
+#EXTINF:-1,TR: STAR TV
+https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
+#EXTINF:-1,TR: STAR TV FHD
+http://195.155.98.170:5858/play/a09z?checkedby:iptvcat.com
+#EXTINF:-1,TR: ATV
+https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
+#EXTINF:-1,TR: TV GÖSTER
+https://showtv.blutv.com/blutv_showtv_live/live.m3u8
+#EXTINF:-1,TR: FOX TV
+https://foxtv-live-ad.ercdn.net/foxtv/foxtv_720p.m3u8?e=1664522826&st=lDdRO98cUgPMxnj74YLxqQ
+#EXTINF:-1,TR: 360 TV
+https://tv.ensonhaber.com/tv/tr/360tv/index.m3u8
+#EXTINF:-1,TR: FLASH TV
+https://yayin5.canlitv.day/live/flashtv.stream/playlist.m3u8?hash=e607f20063088c90b971f4749e4aba5b
+#EXTINF:-1,TR: TV 8 HD
+https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?sid=4rl8z1t79mrh&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+#EXTINF:-1,TR: DMAX
+https://dogus-live.daioncdn.net/dmax/playlist.m3u8
+#EXTINF:-1,TR: CNN TÜRK
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
+#EXTINF:-1,TR: TRT HABER
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,TR: HABER TÜRK
+https://ciner.daioncdn.net/haberturktv/haberturktv.m3u8?app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3
+#EXTINF:-1,TR: HABER GLOBAL
+https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
+#EXTINF:-1,TR: KANAL 24
+https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8
+#EXTINF:-1,TR: BLOOMBERG HD
+https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
+#EXTINF:-1,TR: TARIM TV UHD
+https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-1080p.m3u8
+#EXTINF:-1,TR: TRT BELGESEL
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TR: TRT BELGESEL 2
+http://195.155.98.170:5858/play/a09f?checkedby:iptvcat.com
+5858/play/a09f?checkedby:iptvcat.com
+#EXTINF:-1, POWER TÜRK
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b5250000_sltur.m3u8?nimblesessionid=184049473
